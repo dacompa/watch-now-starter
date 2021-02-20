@@ -21,6 +21,10 @@
      */
     var services = [
         {
+            service: 'Videoland',
+            androidPackageNames: ['nl.rtl.videoland']
+        },
+        {
             service: 'Netflix',
             androidPackageNames: ['com.netflix.mediaclient', 'com.netflix.ninja']
         },
